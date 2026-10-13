@@ -4,6 +4,8 @@ numpy==2.4.6
 pandas==3.0.6
 scipy==1.17.1
 statsmodels==0.15.0
+arch==8.0.0
+pandas_market_calendars==5.5.0
 matplotlib==3.11.2
 
 # Jupyter tooling (kernel + headless execution)
