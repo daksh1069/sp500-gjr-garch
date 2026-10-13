@@ -1,0 +1,18 @@
+# Local virtual environment (rebuild from requirements.txt)
+.venv/
+
+# Third-party papers and course material: not ours to redistribute
+Literature Review/
+
+# Midpoint decks kept local: team contact details / a different project's deck
+Presentations/GJR Garch Mid Point Checkin.pptx
+Presentations/Mid Point Checkin.pptx
+
+# Output written by the draft stats notebook
+slide_stats_output.txt
+
+# OS, editor, and Jupyter clutter
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+~$*.pptx
